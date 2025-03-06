@@ -1,8 +1,0 @@
-flask
-joblib
-numpy 
-pandas 
-mathplotlib
-scikit-learn
-opencv-python
-gunicorn
