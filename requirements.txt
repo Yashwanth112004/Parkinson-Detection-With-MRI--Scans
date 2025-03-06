@@ -2,7 +2,7 @@ flask
 joblib
 numpy 
 pandas 
-mathplotlib
+matplotlib
 scikit-learn
 opencv-python
 gunicorn
